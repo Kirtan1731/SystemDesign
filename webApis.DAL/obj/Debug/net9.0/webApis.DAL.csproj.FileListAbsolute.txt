@@ -1,0 +1,15 @@
+C:\Users\patel\Repo\Projects\webApis.DAL\bin\Debug\net9.0\webApis.DAL.deps.json
+C:\Users\patel\Repo\Projects\webApis.DAL\bin\Debug\net9.0\webApis.DAL.runtimeconfig.json
+C:\Users\patel\Repo\Projects\webApis.DAL\bin\Debug\net9.0\webApis.DAL.dll
+C:\Users\patel\Repo\Projects\webApis.DAL\bin\Debug\net9.0\webApis.DAL.pdb
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.csproj.AssemblyReference.cache
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.AssemblyInfoInputs.cache
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.AssemblyInfo.cs
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.csproj.CoreCompileInputs.cache
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.sourcelink.json
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.dll
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\refint\webApis.DAL.dll
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.pdb
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\webApis.DAL.genruntimeconfig.cache
+C:\Users\patel\Repo\Projects\webApis.DAL\obj\Debug\net9.0\ref\webApis.DAL.dll

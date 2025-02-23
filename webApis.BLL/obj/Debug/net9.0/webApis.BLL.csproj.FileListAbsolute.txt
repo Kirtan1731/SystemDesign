@@ -1,0 +1,16 @@
+C:\Users\patel\Repo\Projects\webApis.BLL\bin\Debug\net9.0\webApis.BLL.deps.json
+C:\Users\patel\Repo\Projects\webApis.BLL\bin\Debug\net9.0\webApis.BLL.dll
+C:\Users\patel\Repo\Projects\webApis.BLL\bin\Debug\net9.0\webApis.BLL.pdb
+C:\Users\patel\Repo\Projects\webApis.BLL\bin\Debug\net9.0\webApis.DAL.dll
+C:\Users\patel\Repo\Projects\webApis.BLL\bin\Debug\net9.0\webApis.DAL.pdb
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.csproj.AssemblyReference.cache
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.AssemblyInfoInputs.cache
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.AssemblyInfo.cs
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.csproj.CoreCompileInputs.cache
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.sourcelink.json
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis..15F09C16.Up2Date
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.dll
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\refint\webApis.BLL.dll
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\webApis.BLL.pdb
+C:\Users\patel\Repo\Projects\webApis.BLL\obj\Debug\net9.0\ref\webApis.BLL.dll
